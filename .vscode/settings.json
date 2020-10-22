@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.allowForcePush": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": true
+}
